@@ -1,0 +1,1 @@
+Durante nossa disciplina de álgebra linear, desenvolvemos uma calculadora de matrizes. Essa aplicação nos permitiu realizar operações como multiplicação, inversão e determinante, facilitando a análise e manipulação dessas estruturas matemáticas
